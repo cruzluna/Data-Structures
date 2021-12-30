@@ -2,6 +2,7 @@
 # [ 1 2 3 4 5 6 7 8] length: 8 target: 7
 def bisect(arr: list, target: int) -> int:
     '''
+    My initial approach to Binary Search
     assumes number is in list
     return the index of target number
     '''
