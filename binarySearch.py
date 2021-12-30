@@ -73,4 +73,4 @@ class Solution(object):
                 high = middle - 1
             else:
                 return middle
-        return -1 #could also return high
+        return -1 #not in the array
