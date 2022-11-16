@@ -1,8 +1,4 @@
 # Tree Data Structure
-
-
-
-
 ''' Script to understand Binary Search Trees
  Binary tree -> at most two children per parent node
  Root node ->  the start of tree, no parent, and nothing precedes it
